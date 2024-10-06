@@ -2,8 +2,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "50931461936"
-global.ownername = "🌹⃟⃢👑 ĐÆ𝚪𝐊༒𝙎-𝙏𝞢𝞜🌹⃟⃢👑"
+global.ownernomer = "50943212342"
+global.ownername = "TAP-NO|ONE💀👾🤖"
 global.ytname = "DRK_ST_Tech"
 global.socialm = "GitHub: DRK-S-TEN"
 global.location = "America, Haiti, Port-au-Prince"
@@ -51,10 +51,10 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: '𝗗𝗼𝗻𝗲 !',
-    prem: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗰𝗮𝗻 𝗯𝗲 𝘂𝘀𝗲𝗱 𝗯𝘆 𝗽𝗿𝗲𝗺𝗶𝘂𝗺 𝘂𝘀𝗲𝗿 𝗼𝗻𝗹𝘆',
-    admin: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗰𝗮𝗻 𝗯𝗲 𝘂𝘀𝗲𝗱 𝗯𝘆 𝗮𝗱𝗺𝗶𝗻 𝗼𝗻𝗹𝘆',
-    botAdmin: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗰𝗮𝗻 𝗼𝗻𝗹𝘆 𝗯𝗲 𝘂𝘀𝗲𝗱 𝘄𝗵𝗲𝗻 𝘁𝗵𝗲 𝗯𝗼𝘁 𝗶𝘀 𝗮 𝗴𝗿𝗼𝘂𝗽 𝗮𝗱𝗺𝗶𝗻',
-    owner: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗰𝗮𝗻 𝗯𝗲 𝘂𝘀𝗲𝗱 𝗯𝘆 𝗼𝘄𝗻𝗲𝗿 𝗼𝗻𝗹𝘆',
+    prem: 'Gyètmanmanw kòmand sa pa pou ou',
+    admin: 'kòmanw fè soumoun konsa se admin ou ye',
+    botAdmin:'chen fout kite tèt papaw an repo',
+    owner: 'chèche gen bot paw pou kòmand sa yo',
     group: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗶𝘀 𝗼𝗻𝗹𝘆 𝗳𝗼𝗿 𝗴𝗿𝗼𝘂𝗽𝘀',
     private: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗶𝘀 𝗼𝗻𝗹𝘆 𝗳𝗼𝗿 𝗽𝗿𝗶𝘃𝗮𝘁𝗲 𝗰𝗵𝗮𝘁𝘀',
     wait: '𝖕𝖑𝖊𝖆𝖘𝖊 𝖜𝖆𝖎𝖙... ',    
